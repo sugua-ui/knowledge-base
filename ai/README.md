@@ -1,7 +1,5 @@
 # Artificial Intelligence
 
-# Artificial Intelligence
-
 This section documents my study of Artificial Intelligence, Machine Learning, Large Language Models, AI Security, and AI Engineering.
 
 ## Mission
